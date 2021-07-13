@@ -1,0 +1,1074 @@
+<div class="responsivegrid aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--default--0">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="imageVideoCarousel carousel--full-height-with-navigation carousel--autoscroll-on-hover aem-GridColumn aem-GridColumn--default--12">
+    
+
+<div class="tccc-cmp tccc-cmp-imageVideoCarousel ready" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/imageVideoCarousel/default/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/imageVideoCarousel/default/style.css" data-logic-url="https://shared.coke.com/content/dam/nextgen/components/content/imageVideoCarousel/default/logic.js" data-model="{&quot;duration&quot;:&quot;5&quot;,&quot;carouselId&quot;:&quot;carousel1&quot;,&quot;pagDotsMobile&quot;:&quot;true&quot;,&quot;prevNextMobile&quot;:&quot;false&quot;,&quot;autoScroll&quot;:&quot;true&quot;,&quot;prevNextDeskTablet&quot;:&quot;true&quot;,&quot;assetSizing&quot;:&quot;full&quot;,&quot;pagDotsDeskTablet&quot;:&quot;false&quot;,&quot;carouselItems&quot;:[{&quot;imgLinkIsLink&quot;:&quot;https://www.coca-cola.co.za/become-a-hit-maker&quot;,&quot;imageSrc&quot;:&quot;/content/dam/one/za/en/brand-desktop/SAF_1600x700_Campaign_Banner_01_v2.jpg&quot;,&quot;useSecondaryStyle&quot;:&quot;false&quot;,&quot;mobileSrc&quot;:&quot;/content/dam/one/za/en/brand-mobile/Become a Hit Maker V2.png&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;mediaType&quot;:&quot;image&quot;,&quot;data&quot;:{&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;true&quot;}},{&quot;imgLinkIsLink&quot;:&quot;https://sacoronavirus.co.za&quot;,&quot;imgLinkTarget&quot;:&quot;_blank&quot;,&quot;imageSrc&quot;:&quot;/content/dam/one/za/en/home/carousel/desktop/stay-safe-carousel-1600x900.jpg&quot;,&quot;useSecondaryStyle&quot;:&quot;false&quot;,&quot;mobileSrc&quot;:&quot;/content/dam/one/za/en/home/carousel/mobile/stay-safe-carousel-600x900.jpg&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;mediaType&quot;:&quot;image&quot;,&quot;data&quot;:{&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;true&quot;}},{&quot;imgLinkIsLink&quot;:&quot;https://www.coca-cola.co.za/our-brands/coca-cola-no-sugar&quot;,&quot;imageSrc&quot;:&quot;/content/dam/one/za/en/brand-desktop/1600x700_.jpg&quot;,&quot;useSecondaryStyle&quot;:&quot;false&quot;,&quot;mobileSrc&quot;:&quot;/content/dam/one/za/en/brand-mobile/900x600_.jpg&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;mediaType&quot;:&quot;image&quot;,&quot;data&quot;:{&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;true&quot;}},{&quot;imgLinkIsLink&quot;:&quot;https://www.coca-cola.co.za/refresh-your-rhythm&quot;,&quot;imageSrc&quot;:&quot;/content/dam/one/za/en/brand-desktop/Coca_Cola_Uplift_2020_SEABU_SA_WEBPAGE_DESKTOP_1600x700_V3.jpg&quot;,&quot;useSecondaryStyle&quot;:&quot;false&quot;,&quot;mobileSrc&quot;:&quot;/content/dam/one/za/en/brand-mobile/Coca_Cola_Uplift_2020_SEABU_SA_WEBPAGE_MOBILE_600x900_V3.jpg&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;mediaType&quot;:&quot;image&quot;,&quot;data&quot;:{&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;true&quot;}},{&quot;imgLinkIsLink&quot;:&quot;https://www.coca-cola.co.za/coke-with-meals&quot;,&quot;imageSrc&quot;:&quot;/content/dam/one/za/en/brand-desktop/1003358 1.5L no sugar_1600x700pp ZA.jpg&quot;,&quot;useSecondaryStyle&quot;:&quot;false&quot;,&quot;mobileSrc&quot;:&quot;/content/dam/one/za/en/brand-mobile/1003358 1.5L no sugar_600x900pp ZA.jpg&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;mediaType&quot;:&quot;image&quot;,&quot;data&quot;:{&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;true&quot;}},{&quot;imgLinkIsLink&quot;:&quot;https://www.coca-cola.co.za/fanta-colour-every-moment&quot;,&quot;imageSrc&quot;:&quot;/content/dam/one/za/en/brand-desktop/Home Page_1600x700.png&quot;,&quot;useSecondaryStyle&quot;:&quot;false&quot;,&quot;mobileSrc&quot;:&quot;/content/dam/one/za/en/brand-mobile/Home Page_600x900.png&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;mediaType&quot;:&quot;image&quot;,&quot;data&quot;:{&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;true&quot;}},{&quot;imgLinkIsLink&quot;:&quot;https://www.coca-cola.et/sprite-lets-be-clear&quot;,&quot;imageSrc&quot;:&quot;/content/dam/one/za/en/brand-desktop/10033514JB_Sprite_Let_Be_Clear_Web_Homepage_Banner_1600x700_V1.jpg&quot;,&quot;useSecondaryStyle&quot;:&quot;false&quot;,&quot;mobileSrc&quot;:&quot;/content/dam/one/za/en/brand-mobile/10033514JB_Sprite_Let_Be_Clear_Web_Homepage_Banner_600x900_V1.jpg&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;mediaType&quot;:&quot;image&quot;,&quot;data&quot;:{&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;true&quot;}}]}" data-component-name="imageVideoCarousel" data-design-package="default" data-instance-id="69f9574b-f47f-570f-174d-7c9d5ecec996"><div id="carousel1" data-autoscroll="true" data-duration="5000" data-assetsizing="full" class="carousel slide 
+    
+     full 
+  " data-ride="carousel" data-interval="5000" data-pause="false">
+
+
+	<div class="carousel-inner">
+		<div class="image-video-carousel carousel-item image">
+
+
+			<a href="https://www.coca-cola.co.za/become-a-hit-maker">
+				<div style="background-image: url(&quot;/content/dam/one/za/en/brand-mobile/Become a Hit Maker V2.png&quot;);" data-md-bg-src="/content/dam/one/za/en/brand-desktop/SAF_1600x700_Campaign_Banner_01_v2.jpg" data-xs-bg-src="/content/dam/one/za/en/brand-mobile/Become a Hit Maker V2.png" class="responsive-background-image cover"></div>
+				</a>
+			
+
+			<div class="carousel-caption   active">
+				<div class="carousel__headline--default">
+				</div>
+				<!-- this will be hidden on default and shown when moving the headline out of caption block -->
+				<div class="carousel__headline--movable">
+
+					<div class="carousel_buttonsWrapper">
+
+
+					</div> 
+				</div>
+
+				<a href="https://www.coca-cola.co.za/become-a-hit-maker">
+					<div class="carousel_title_subheadline">
+
+					</div>
+				</a>
+
+				<div class="carousel_buttonsWrapper default">
+
+
+				</div> 
+			</div>
+
+			<div class="hide carousel_scrollWrapper">
+				<div class="carousel_scrollIndicator">
+
+					<svg width="12px" height="64px" viewBox="0 0 12 64">
+						<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+							<g id="Desktop-HD" transform="translate(-513.000000, -148.000000)" stroke="#ffffff">
+								<g id="scroll-line" transform="translate(513.000000, 148.000000)">
+									<g id="Group-3" transform="translate(4.000000, 0.000000)">
+										<path class="animate-line" d="M1.5,0.5 L1.5,57.5087713"></path>
+									</g>
+									<polyline class="animate-arrow" points="0 60 5.90429688 63.3994141 11.8398438 60"></polyline>
+								</g>
+							</g>
+						</g>
+					</svg>
+
+				</div>
+				<div class="carousel_scrollLabel"></div>
+				<div class="carousel_scrollDown"></div>
+			</div>
+
+		</div>
+		<div class="image-video-carousel carousel-item image">
+
+
+			<a href="https://sacoronavirus.co.za" target="_blank" rel="noopener noreferrer">
+				<div style="background-image: url(&quot;/content/dam/one/za/en/home/carousel/mobile/stay-safe-carousel-600x900.jpg&quot;);" data-md-bg-src="/content/dam/one/za/en/home/carousel/desktop/stay-safe-carousel-1600x900.jpg" data-xs-bg-src="/content/dam/one/za/en/home/carousel/mobile/stay-safe-carousel-600x900.jpg" class="responsive-background-image cover"></div>
+				</a>
+			
+
+			<div class="carousel-caption   ">
+				<div class="carousel__headline--default">
+				</div>
+				<!-- this will be hidden on default and shown when moving the headline out of caption block -->
+				<div class="carousel__headline--movable">
+
+					<div class="carousel_buttonsWrapper">
+
+
+					</div> 
+				</div>
+
+				<a href="https://sacoronavirus.co.za" target="_blank" rel="noopener noreferrer">
+					<div class="carousel_title_subheadline">
+
+					</div>
+				</a>
+
+				<div class="carousel_buttonsWrapper default">
+
+
+				</div> 
+			</div>
+
+			<div class="hide carousel_scrollWrapper">
+				<div class="carousel_scrollIndicator">
+
+					<svg width="12px" height="64px" viewBox="0 0 12 64">
+						<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+							<g id="Desktop-HD" transform="translate(-513.000000, -148.000000)" stroke="#ffffff">
+								<g id="scroll-line" transform="translate(513.000000, 148.000000)">
+									<g id="Group-3" transform="translate(4.000000, 0.000000)">
+										<path class="animate-line" d="M1.5,0.5 L1.5,57.5087713"></path>
+									</g>
+									<polyline class="animate-arrow" points="0 60 5.90429688 63.3994141 11.8398438 60"></polyline>
+								</g>
+							</g>
+						</g>
+					</svg>
+
+				</div>
+				<div class="carousel_scrollLabel"></div>
+				<div class="carousel_scrollDown"></div>
+			</div>
+
+		</div>
+		<div class="image-video-carousel carousel-item image">
+
+
+			<a href="https://www.coca-cola.co.za/our-brands/coca-cola-no-sugar">
+				<div style="background-image: url(&quot;/content/dam/one/za/en/brand-mobile/900x600_.jpg&quot;);" data-md-bg-src="/content/dam/one/za/en/brand-desktop/1600x700_.jpg" data-xs-bg-src="/content/dam/one/za/en/brand-mobile/900x600_.jpg" class="responsive-background-image cover"></div>
+				</a>
+			
+
+			<div class="carousel-caption   ">
+				<div class="carousel__headline--default">
+				</div>
+				<!-- this will be hidden on default and shown when moving the headline out of caption block -->
+				<div class="carousel__headline--movable">
+
+					<div class="carousel_buttonsWrapper">
+
+
+					</div> 
+				</div>
+
+				<a href="https://www.coca-cola.co.za/our-brands/coca-cola-no-sugar">
+					<div class="carousel_title_subheadline">
+
+					</div>
+				</a>
+
+				<div class="carousel_buttonsWrapper default">
+
+
+				</div> 
+			</div>
+
+			<div class="hide carousel_scrollWrapper">
+				<div class="carousel_scrollIndicator">
+
+					<svg width="12px" height="64px" viewBox="0 0 12 64">
+						<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+							<g id="Desktop-HD" transform="translate(-513.000000, -148.000000)" stroke="#ffffff">
+								<g id="scroll-line" transform="translate(513.000000, 148.000000)">
+									<g id="Group-3" transform="translate(4.000000, 0.000000)">
+										<path class="animate-line" d="M1.5,0.5 L1.5,57.5087713"></path>
+									</g>
+									<polyline class="animate-arrow" points="0 60 5.90429688 63.3994141 11.8398438 60"></polyline>
+								</g>
+							</g>
+						</g>
+					</svg>
+
+				</div>
+				<div class="carousel_scrollLabel"></div>
+				<div class="carousel_scrollDown"></div>
+			</div>
+
+		</div>
+		<div class="image-video-carousel carousel-item image">
+
+
+			<a href="https://www.coca-cola.co.za/refresh-your-rhythm">
+				<div style="background-image: url(&quot;/content/dam/one/za/en/brand-mobile/Coca_Cola_Uplift_2020_SEABU_SA_WEBPAGE_MOBILE_600x900_V3.jpg&quot;);" data-md-bg-src="/content/dam/one/za/en/brand-desktop/Coca_Cola_Uplift_2020_SEABU_SA_WEBPAGE_DESKTOP_1600x700_V3.jpg" data-xs-bg-src="/content/dam/one/za/en/brand-mobile/Coca_Cola_Uplift_2020_SEABU_SA_WEBPAGE_MOBILE_600x900_V3.jpg" class="responsive-background-image cover"></div>
+				</a>
+			
+
+			<div class="carousel-caption   ">
+				<div class="carousel__headline--default">
+				</div>
+				<!-- this will be hidden on default and shown when moving the headline out of caption block -->
+				<div class="carousel__headline--movable">
+
+					<div class="carousel_buttonsWrapper">
+
+
+					</div> 
+				</div>
+
+				<a href="https://www.coca-cola.co.za/refresh-your-rhythm">
+					<div class="carousel_title_subheadline">
+
+					</div>
+				</a>
+
+				<div class="carousel_buttonsWrapper default">
+
+
+				</div> 
+			</div>
+
+			<div class="hide carousel_scrollWrapper">
+				<div class="carousel_scrollIndicator">
+
+					<svg width="12px" height="64px" viewBox="0 0 12 64">
+						<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+							<g id="Desktop-HD" transform="translate(-513.000000, -148.000000)" stroke="#ffffff">
+								<g id="scroll-line" transform="translate(513.000000, 148.000000)">
+									<g id="Group-3" transform="translate(4.000000, 0.000000)">
+										<path class="animate-line" d="M1.5,0.5 L1.5,57.5087713"></path>
+									</g>
+									<polyline class="animate-arrow" points="0 60 5.90429688 63.3994141 11.8398438 60"></polyline>
+								</g>
+							</g>
+						</g>
+					</svg>
+
+				</div>
+				<div class="carousel_scrollLabel"></div>
+				<div class="carousel_scrollDown"></div>
+			</div>
+
+		</div>
+		<div class="image-video-carousel carousel-item image active">
+
+
+			<a href="https://www.coca-cola.co.za/coke-with-meals">
+				<div style="background-image: url(&quot;/content/dam/one/za/en/brand-mobile/1003358 1.5L no sugar_600x900pp ZA.jpg&quot;);" data-md-bg-src="/content/dam/one/za/en/brand-desktop/1003358 1.5L no sugar_1600x700pp ZA.jpg" data-xs-bg-src="/content/dam/one/za/en/brand-mobile/1003358 1.5L no sugar_600x900pp ZA.jpg" class="responsive-background-image cover"></div>
+				</a>
+			
+
+			<div class="carousel-caption   ">
+				<div class="carousel__headline--default">
+				</div>
+				<!-- this will be hidden on default and shown when moving the headline out of caption block -->
+				<div class="carousel__headline--movable">
+
+					<div class="carousel_buttonsWrapper">
+
+
+					</div> 
+				</div>
+
+				<a href="https://www.coca-cola.co.za/coke-with-meals">
+					<div class="carousel_title_subheadline">
+
+					</div>
+				</a>
+
+				<div class="carousel_buttonsWrapper default">
+
+
+				</div> 
+			</div>
+
+			<div class="hide carousel_scrollWrapper">
+				<div class="carousel_scrollIndicator">
+
+					<svg width="12px" height="64px" viewBox="0 0 12 64">
+						<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+							<g id="Desktop-HD" transform="translate(-513.000000, -148.000000)" stroke="#ffffff">
+								<g id="scroll-line" transform="translate(513.000000, 148.000000)">
+									<g id="Group-3" transform="translate(4.000000, 0.000000)">
+										<path class="animate-line" d="M1.5,0.5 L1.5,57.5087713"></path>
+									</g>
+									<polyline class="animate-arrow" points="0 60 5.90429688 63.3994141 11.8398438 60"></polyline>
+								</g>
+							</g>
+						</g>
+					</svg>
+
+				</div>
+				<div class="carousel_scrollLabel"></div>
+				<div class="carousel_scrollDown"></div>
+			</div>
+
+		</div>
+		<div class="image-video-carousel carousel-item image">
+
+
+			<a href="https://www.coca-cola.co.za/fanta-colour-every-moment">
+				<div style="background-image: url(&quot;/content/dam/one/za/en/brand-mobile/Home Page_600x900.png&quot;);" data-md-bg-src="/content/dam/one/za/en/brand-desktop/Home Page_1600x700.png" data-xs-bg-src="/content/dam/one/za/en/brand-mobile/Home Page_600x900.png" class="responsive-background-image cover"></div>
+				</a>
+			
+
+			<div class="carousel-caption   ">
+				<div class="carousel__headline--default">
+				</div>
+				<!-- this will be hidden on default and shown when moving the headline out of caption block -->
+				<div class="carousel__headline--movable">
+
+					<div class="carousel_buttonsWrapper">
+
+
+					</div> 
+				</div>
+
+				<a href="https://www.coca-cola.co.za/fanta-colour-every-moment">
+					<div class="carousel_title_subheadline">
+
+					</div>
+				</a>
+
+				<div class="carousel_buttonsWrapper default">
+
+
+				</div> 
+			</div>
+
+			<div class="hide carousel_scrollWrapper">
+				<div class="carousel_scrollIndicator">
+
+					<svg width="12px" height="64px" viewBox="0 0 12 64">
+						<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+							<g id="Desktop-HD" transform="translate(-513.000000, -148.000000)" stroke="#ffffff">
+								<g id="scroll-line" transform="translate(513.000000, 148.000000)">
+									<g id="Group-3" transform="translate(4.000000, 0.000000)">
+										<path class="animate-line" d="M1.5,0.5 L1.5,57.5087713"></path>
+									</g>
+									<polyline class="animate-arrow" points="0 60 5.90429688 63.3994141 11.8398438 60"></polyline>
+								</g>
+							</g>
+						</g>
+					</svg>
+
+				</div>
+				<div class="carousel_scrollLabel"></div>
+				<div class="carousel_scrollDown"></div>
+			</div>
+
+		</div>
+		<div class="image-video-carousel carousel-item image">
+
+
+			<a href="https://www.coca-cola.et/sprite-lets-be-clear">
+				<div style="background-image: url(&quot;/content/dam/one/za/en/brand-mobile/10033514JB_Sprite_Let_Be_Clear_Web_Homepage_Banner_600x900_V1.jpg&quot;);" data-md-bg-src="/content/dam/one/za/en/brand-desktop/10033514JB_Sprite_Let_Be_Clear_Web_Homepage_Banner_1600x700_V1.jpg" data-xs-bg-src="/content/dam/one/za/en/brand-mobile/10033514JB_Sprite_Let_Be_Clear_Web_Homepage_Banner_600x900_V1.jpg" class="responsive-background-image cover"></div>
+				</a>
+			
+
+			<div class="carousel-caption   ">
+				<div class="carousel__headline--default">
+				</div>
+				<!-- this will be hidden on default and shown when moving the headline out of caption block -->
+				<div class="carousel__headline--movable">
+
+					<div class="carousel_buttonsWrapper">
+
+
+					</div> 
+				</div>
+
+				<a href="https://www.coca-cola.et/sprite-lets-be-clear">
+					<div class="carousel_title_subheadline">
+
+					</div>
+				</a>
+
+				<div class="carousel_buttonsWrapper default">
+
+
+				</div> 
+			</div>
+
+			<div class="hide carousel_scrollWrapper">
+				<div class="carousel_scrollIndicator">
+
+					<svg width="12px" height="64px" viewBox="0 0 12 64">
+						<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+							<g id="Desktop-HD" transform="translate(-513.000000, -148.000000)" stroke="#ffffff">
+								<g id="scroll-line" transform="translate(513.000000, 148.000000)">
+									<g id="Group-3" transform="translate(4.000000, 0.000000)">
+										<path class="animate-line" d="M1.5,0.5 L1.5,57.5087713"></path>
+									</g>
+									<polyline class="animate-arrow" points="0 60 5.90429688 63.3994141 11.8398438 60"></polyline>
+								</g>
+							</g>
+						</g>
+					</svg>
+
+				</div>
+				<div class="carousel_scrollLabel"></div>
+				<div class="carousel_scrollDown"></div>
+			</div>
+
+		</div>
+
+
+		<ol class="carousel-indicators d-xs-flex d-md-none">
+			<li data-target="#carousel1" data-slide-to="0" class=""></li>
+			<li data-target="#carousel1" data-slide-to="1" class=""></li>
+			<li data-target="#carousel1" data-slide-to="2" class=""></li>
+			<li data-target="#carousel1" data-slide-to="3" class=""></li>
+			<li data-target="#carousel1" data-slide-to="4" class="active"></li>
+			<li data-target="#carousel1" data-slide-to="5" class=""></li>
+			<li data-target="#carousel1" data-slide-to="6" class=""></li>
+		</ol>
+
+	</div>
+
+
+	<!-- Prev Next arrows -->
+	<a class="carousel-control-prev d-none d-md-block" href="#carousel1" role="button" data-slide="prev">
+		<div class="carousel_prev-animation">
+			<svg width="40px" height="40px" viewBox="0 0 40 40">
+				<circle id="circle-p1" cx="20" cy="20" r="17" stroke="2"></circle>
+				<circle id="circle-p2" cx="20" cy="20" r="17" stroke="2"></circle>
+				<g id="arrow-left" transform="translate(14.000000, 11.000000)">
+					<path d="M6.65652689,1.8698883 L11.1996727,6.24871297 C11.3972007,6.43909665 11.7527513,6.43909665 11.989785,6.24871297 C12.1873131,6.05832929 12.1873131,5.71563866 11.989785,5.48717824 L6.49850443,0.194511899 C6.30097635,0.00412821758 5.94542581,0.00412821758 5.70839212,0.194511899 L0.217111575,5.48717824 C0.0195834979,5.67756192 0.0195834979,6.02025255 0.217111575,6.24871297 C0.414639652,6.43909665 0.770190191,6.43909665 1.00722388,6.24871297 L5.55036966,1.8698883 L5.55036966,16.4152016 C5.55036966,16.7198154 5.78740335,16.9482759 6.10344828,16.9482759 C6.4194932,16.9482759 6.65652689,16.7198154 6.65652689,16.4152016 L6.65652689,1.8698883 Z" id="Shape"></path>
+				</g>
+			</svg>
+		</div>
+		<span class="carousel-control-icon carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="carousel-control-next d-none d-md-block" href="#carousel1" role="button" data-slide="next">
+		<div class="carousel_next-animation">
+			<svg width="40px" height="40px" viewBox="0 0 40 40">
+				<circle id="circle1" cx="20" cy="20" r="17" stroke="2" class="circle-color"></circle>
+				<circle id="circle2" cx="20" cy="20" r="17" stroke="2" class="circle-animation" style="stroke-dashoffset: 92.644px;"></circle>
+				<g id="arrow-right" transform="translate(14.000000, 11.000000)">
+					<path d="M6.65652689,1.8698883 L11.1996727,6.24871297 C11.3972007,6.43909665 11.7527513,6.43909665 11.989785,6.24871297 C12.1873131,6.05832929 12.1873131,5.71563866 11.989785,5.48717824 L6.49850443,0.194511899 C6.30097635,0.00412821758 5.94542581,0.00412821758 5.70839212,0.194511899 L0.217111575,5.48717824 C0.0195834979,5.67756192 0.0195834979,6.02025255 0.217111575,6.24871297 C0.414639652,6.43909665 0.770190191,6.43909665 1.00722388,6.24871297 L5.55036966,1.8698883 L5.55036966,16.4152016 C5.55036966,16.7198154 5.78740335,16.9482759 6.10344828,16.9482759 C6.4194932,16.9482759 6.65652689,16.7198154 6.65652689,16.4152016 L6.65652689,1.8698883 Z" id="Shape"></path>
+				</g>
+			</svg>
+		</div>
+
+		<span class="carousel-control-icon carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+
+
+</div> <!-- end div id="carousel1" -->
+
+<!-- For styling pagination dot color -->
+<style type="text/css">
+</style>
+</div>
+</div>
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--phone--12 ">
+    
+    <div class="responsivegrid aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn aem-GridColumn--default--7 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0">
+
+
+<div class="aem-Grid aem-Grid--default--12 aem-Grid--phone--12 ">
+    
+    <div class="card card__h5--bolder aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0">
+    
+
+
+
+
+  
+
+
+
+<!-- Card Vertical -->
+<div class="tccc-cmp tccc-cmp-card ready" data-component-name="card" data-logic-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/logic.js" data-model="{&quot;headlineText&quot;:&quot;OUR BRANDS&quot;,&quot;isDecorativeAudio&quot;:&quot;false&quot;,&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;imageOrVideo&quot;:&quot;image&quot;,&quot;showAltText&quot;:&quot;true&quot;,&quot;paddingMarginLeftRightMarginDisable&quot;:&quot;false&quot;,&quot;cardLinkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginMobilePadding&quot;:&quot;p-0&quot;,&quot;headlineTextAlignment&quot;:&quot;text-center&quot;,&quot;cardLinkUrl&quot;:&quot;/our-brands&quot;,&quot;linkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginDeskPadding&quot;:&quot;p-md-0&quot;,&quot;linkTargetDownload&quot;:&quot;_self&quot;,&quot;linkType&quot;:&quot;pageURL&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;showAltTextAudio&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;false&quot;,&quot;paddingMarginDeskMargin&quot;:&quot;m-md-0&quot;,&quot;mobileMargin&quot;:&quot;m-0&quot;,&quot;image&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/desktop-new/our-brands-d-section-1.jpg&quot;,&quot;imageWidth&quot;:1157,&quot;imageHeight&quot;:696,&quot;aspectRation&quot;:&quot;60.16%&quot;},&quot;mobile&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/mobile/our-brands-m-section-1.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:600,&quot;aspectRation&quot;:&quot;100.00%&quot;},&quot;icon&quot;:{},&quot;bgcolorimageDesktopImage&quot;:{},&quot;bgcolorimageMobileImage&quot;:{},&quot;video&quot;:{},&quot;audio&quot;:{}}" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/style.css" data-design-package="bleed" data-server-hbs-enabled="false" data-instance-id="1c5dbda2-0f16-a092-06e3-def1e2170ed6"><div class="responsive-background-image custom-margin-padding
+	 m-0
+	 p-0
+	 m-md-0
+	 p-md-0" style="
+	">
+
+	<div class="card__img--wrapper text-center">
+
+			<a href="/our-brands" target="_self" aria-label="Opens link">
+
+
+			
+				<img src="/content/dam/one/za/en/home/tiles/mobile/our-brands-m-section-1.jpg" data-object-id="" data-md-src="/content/dam/one/za/en/home/tiles/desktop-new/our-brands-d-section-1.jpg" data-xs-src="/content/dam/one/za/en/home/tiles/mobile/our-brands-m-section-1.jpg" class="card-img-top card__img--zoom responsive-image" alt="">
+
+			</a><div class="card__div--overlay card-body-style"><a href="/our-brands" target="_self" aria-label="Opens link">
+
+				</a><div class="card--overlayWrapper"><a href="/our-brands" target="_self" aria-label="Opens link">
+						<h5 class="card-title text-center" style="">OUR BRANDS</h5>
+
+
+
+						</a>
+				</div>
+			</div>
+
+			<div class="card__side-indicator"></div>
+		
+
+
+
+
+
+			
+	</div>
+</div></div>
+</div>
+
+    
+</div>
+</div>
+<div class="responsivegrid aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn aem-GridColumn--default--5 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0">
+
+
+<div class="aem-Grid aem-Grid--default--12 aem-Grid--phone--12 ">
+    
+    <div class="card card__h5--bolder aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--phone--0">
+    
+
+
+
+
+  
+
+
+
+<!-- Card Vertical -->
+<div class="tccc-cmp tccc-cmp-card ready" data-component-name="card" data-logic-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/logic.js" data-model="{&quot;headlineText&quot;:&quot;WORLD WITHOUT WASTE&quot;,&quot;isDecorativeAudio&quot;:&quot;false&quot;,&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;imageOrVideo&quot;:&quot;image&quot;,&quot;showAltText&quot;:&quot;true&quot;,&quot;paddingMarginLeftRightMarginDisable&quot;:&quot;false&quot;,&quot;cardLinkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginMobilePadding&quot;:&quot;p-0&quot;,&quot;headlineTextAlignment&quot;:&quot;text-center&quot;,&quot;cardLinkUrl&quot;:&quot;/sustainability/world-without-waste&quot;,&quot;linkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginDeskPadding&quot;:&quot;p-md-0&quot;,&quot;linkTargetDownload&quot;:&quot;_self&quot;,&quot;linkType&quot;:&quot;pageURL&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;showAltTextAudio&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;false&quot;,&quot;paddingMarginDeskMargin&quot;:&quot;m-md-0&quot;,&quot;mobileMargin&quot;:&quot;m-0&quot;,&quot;image&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/desktop-new/word-without-waste-760x640-section-2.jpg&quot;,&quot;imageWidth&quot;:760,&quot;imageHeight&quot;:640,&quot;aspectRation&quot;:&quot;84.21%&quot;},&quot;mobile&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/mobile/word-without-waste-m-600x400-section-2.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:400,&quot;aspectRation&quot;:&quot;66.67%&quot;},&quot;icon&quot;:{},&quot;bgcolorimageDesktopImage&quot;:{},&quot;bgcolorimageMobileImage&quot;:{},&quot;video&quot;:{},&quot;audio&quot;:{}}" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/style.css" data-design-package="bleed" data-server-hbs-enabled="false" data-instance-id="732a2fca-0a6e-bb98-8072-77ddd3c76836"><div class="responsive-background-image custom-margin-padding
+	 m-0
+	 p-0
+	 m-md-0
+	 p-md-0" style="
+	">
+
+	<div class="card__img--wrapper text-center">
+
+			<a href="/sustainability/world-without-waste" target="_self" aria-label="Opens link">
+
+
+			
+				<img src="/content/dam/one/za/en/home/tiles/mobile/word-without-waste-m-600x400-section-2.jpg" data-object-id="" data-md-src="/content/dam/one/za/en/home/tiles/desktop-new/word-without-waste-760x640-section-2.jpg" data-xs-src="/content/dam/one/za/en/home/tiles/mobile/word-without-waste-m-600x400-section-2.jpg" class="card-img-top card__img--zoom responsive-image" alt="">
+
+			</a><div class="card__div--overlay card-body-style"><a href="/sustainability/world-without-waste" target="_self" aria-label="Opens link">
+
+				</a><div class="card--overlayWrapper"><a href="/sustainability/world-without-waste" target="_self" aria-label="Opens link">
+						<h5 class="card-title text-center" style="">WORLD WITHOUT WASTE</h5>
+
+
+
+						</a>
+				</div>
+			</div>
+
+			<div class="card__side-indicator"></div>
+		
+
+
+
+
+
+			
+	</div>
+</div></div>
+</div>
+
+    
+</div>
+</div>
+
+    
+</div>
+</div>
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--tablet--12 aem-Grid--phone--12 ">
+    
+    <div class="responsivegrid aem-GridColumn--tablet--12 aem-GridColumn--offset--tablet--0 aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--default--newline aem-GridColumn--offset--phone--0 aem-GridColumn--default--3 aem-GridColumn--offset--default--0">
+
+
+<div class="aem-Grid aem-Grid--default--12 aem-Grid--phone--12 aem-Grid--tablet--12 ">
+    
+    <div class="card card__h5--bolder aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn--tablet--4 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0">
+    
+
+
+
+
+  
+
+
+
+<!-- Card Vertical -->
+<div class="tccc-cmp tccc-cmp-card ready" data-component-name="card" data-logic-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/logic.js" data-model="{&quot;headlineText&quot;:&quot;ABOUT US&quot;,&quot;isDecorativeAudio&quot;:&quot;false&quot;,&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;imageOrVideo&quot;:&quot;image&quot;,&quot;showAltText&quot;:&quot;true&quot;,&quot;paddingMarginLeftRightMarginDisable&quot;:&quot;false&quot;,&quot;cardLinkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginMobilePadding&quot;:&quot;p-0&quot;,&quot;headlineTextAlignment&quot;:&quot;text-center&quot;,&quot;cardLinkUrl&quot;:&quot;/know-us-better/about-us-in-sa&quot;,&quot;linkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginDeskPadding&quot;:&quot;p-md-0&quot;,&quot;linkTargetDownload&quot;:&quot;_self&quot;,&quot;linkType&quot;:&quot;pageURL&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;showAltTextAudio&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;false&quot;,&quot;paddingMarginDeskMargin&quot;:&quot;m-md-0&quot;,&quot;mobileMargin&quot;:&quot;m-0&quot;,&quot;image&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/desktop-new/about-us-d-section-3.jpg&quot;,&quot;imageWidth&quot;:450,&quot;imageHeight&quot;:270,&quot;aspectRation&quot;:&quot;60.00%&quot;},&quot;mobile&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/mobile/about-us-m-section-3.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:300,&quot;aspectRation&quot;:&quot;50.00%&quot;},&quot;icon&quot;:{},&quot;bgcolorimageDesktopImage&quot;:{},&quot;bgcolorimageMobileImage&quot;:{},&quot;video&quot;:{},&quot;audio&quot;:{}}" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/style.css" data-design-package="bleed" data-server-hbs-enabled="false" data-instance-id="3e9ec253-98cc-934f-2618-2efa573e9c91"><div class="responsive-background-image custom-margin-padding
+	 m-0
+	 p-0
+	 m-md-0
+	 p-md-0" style="
+	">
+
+	<div class="card__img--wrapper text-center">
+
+			<a href="/know-us-better/about-us-in-sa" target="_self" aria-label="Opens link">
+
+
+			
+				<img src="/content/dam/one/za/en/home/tiles/mobile/about-us-m-section-3.jpg" data-object-id="" data-md-src="/content/dam/one/za/en/home/tiles/desktop-new/about-us-d-section-3.jpg" data-xs-src="/content/dam/one/za/en/home/tiles/mobile/about-us-m-section-3.jpg" class="card-img-top card__img--zoom responsive-image" alt="">
+
+			</a><div class="card__div--overlay card-body-style"><a href="/know-us-better/about-us-in-sa" target="_self" aria-label="Opens link">
+
+				</a><div class="card--overlayWrapper"><a href="/know-us-better/about-us-in-sa" target="_self" aria-label="Opens link">
+						<h5 class="card-title text-center" style="">ABOUT US</h5>
+
+
+
+						</a>
+				</div>
+			</div>
+
+			<div class="card__side-indicator"></div>
+		
+
+
+
+
+
+			
+	</div>
+</div></div>
+</div>
+<div class="card card__h5--bolder aem-GridColumn--offset--tablet--0 aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn--tablet--4 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--phone--0">
+    
+
+
+
+
+  
+
+
+
+<!-- Card Vertical -->
+<div class="tccc-cmp tccc-cmp-card ready" data-component-name="card" data-logic-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/logic.js" data-model="{&quot;headlineText&quot;:&quot;OUR PURPOSE&quot;,&quot;isDecorativeAudio&quot;:&quot;false&quot;,&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;imageOrVideo&quot;:&quot;image&quot;,&quot;showAltText&quot;:&quot;true&quot;,&quot;paddingMarginLeftRightMarginDisable&quot;:&quot;false&quot;,&quot;cardLinkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginMobilePadding&quot;:&quot;p-0&quot;,&quot;headlineTextAlignment&quot;:&quot;text-center&quot;,&quot;cardLinkUrl&quot;:&quot;/know-us-better/our-purpose&quot;,&quot;linkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginDeskPadding&quot;:&quot;p-md-0&quot;,&quot;linkTargetDownload&quot;:&quot;_self&quot;,&quot;linkType&quot;:&quot;pageURL&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;showAltTextAudio&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;false&quot;,&quot;paddingMarginDeskMargin&quot;:&quot;m-md-0&quot;,&quot;mobileMargin&quot;:&quot;m-0&quot;,&quot;image&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/desktop-new/purpose--d-450x270-section-4.jpg&quot;,&quot;imageWidth&quot;:450,&quot;imageHeight&quot;:270,&quot;aspectRation&quot;:&quot;60.00%&quot;},&quot;mobile&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/mobile/purpose-m-600x300-section-4.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:300,&quot;aspectRation&quot;:&quot;50.00%&quot;},&quot;icon&quot;:{},&quot;bgcolorimageDesktopImage&quot;:{},&quot;bgcolorimageMobileImage&quot;:{},&quot;video&quot;:{},&quot;audio&quot;:{}}" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/style.css" data-design-package="bleed" data-server-hbs-enabled="false" data-instance-id="63b5fa7e-9d0b-0fd4-0ea2-97e0f43fa729"><div class="responsive-background-image custom-margin-padding
+	 m-0
+	 p-0
+	 m-md-0
+	 p-md-0" style="
+	">
+
+	<div class="card__img--wrapper text-center">
+
+			<a href="/know-us-better/our-purpose" target="_self" aria-label="Opens link">
+
+
+			
+				<img src="/content/dam/one/za/en/home/tiles/mobile/purpose-m-600x300-section-4.jpg" data-object-id="" data-md-src="/content/dam/one/za/en/home/tiles/desktop-new/purpose--d-450x270-section-4.jpg" data-xs-src="/content/dam/one/za/en/home/tiles/mobile/purpose-m-600x300-section-4.jpg" class="card-img-top card__img--zoom responsive-image" alt="">
+
+			</a><div class="card__div--overlay card-body-style"><a href="/know-us-better/our-purpose" target="_self" aria-label="Opens link">
+
+				</a><div class="card--overlayWrapper"><a href="/know-us-better/our-purpose" target="_self" aria-label="Opens link">
+						<h5 class="card-title text-center" style="">OUR PURPOSE</h5>
+
+
+
+						</a>
+				</div>
+			</div>
+
+			<div class="card__side-indicator"></div>
+		
+
+
+
+
+
+			
+	</div>
+</div></div>
+</div>
+<div class="card card__h5--bolder aem-GridColumn--offset--tablet--0 aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn--tablet--4 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--phone--0">
+    
+
+
+
+
+  
+
+
+
+<!-- Card Vertical -->
+<div class="tccc-cmp tccc-cmp-card ready" data-component-name="card" data-logic-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/logic.js" data-model="{&quot;headlineText&quot;:&quot;REFRESHING SOUTH AFRICA&quot;,&quot;isDecorativeAudio&quot;:&quot;false&quot;,&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;imageOrVideo&quot;:&quot;image&quot;,&quot;showAltText&quot;:&quot;true&quot;,&quot;paddingMarginLeftRightMarginDisable&quot;:&quot;false&quot;,&quot;cardLinkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginMobilePadding&quot;:&quot;p-0&quot;,&quot;headlineTextAlignment&quot;:&quot;text-center&quot;,&quot;cardLinkUrl&quot;:&quot;/sustainability/refreshing-south-africa&quot;,&quot;linkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginDeskPadding&quot;:&quot;p-md-0&quot;,&quot;linkTargetDownload&quot;:&quot;_self&quot;,&quot;linkType&quot;:&quot;pageURL&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;showAltTextAudio&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;false&quot;,&quot;paddingMarginDeskMargin&quot;:&quot;m-md-0&quot;,&quot;mobileMargin&quot;:&quot;m-0&quot;,&quot;image&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/desktop-new/refreshing-d-450x270-sa-section-5.jpg&quot;,&quot;imageWidth&quot;:450,&quot;imageHeight&quot;:270,&quot;aspectRation&quot;:&quot;60.00%&quot;},&quot;mobile&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/mobile/refreshing-m-600x300-sa-section-5.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:300,&quot;aspectRation&quot;:&quot;50.00%&quot;},&quot;icon&quot;:{},&quot;bgcolorimageDesktopImage&quot;:{},&quot;bgcolorimageMobileImage&quot;:{},&quot;video&quot;:{},&quot;audio&quot;:{}}" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/style.css" data-design-package="bleed" data-server-hbs-enabled="false" data-instance-id="fa9f96e5-3c65-ae3a-0591-1992a9c000a4"><div class="responsive-background-image custom-margin-padding
+	 m-0
+	 p-0
+	 m-md-0
+	 p-md-0" style="
+	">
+
+	<div class="card__img--wrapper text-center">
+
+			<a href="/sustainability/refreshing-south-africa" target="_self" aria-label="Opens link">
+
+
+			
+				<img src="/content/dam/one/za/en/home/tiles/mobile/refreshing-m-600x300-sa-section-5.jpg" data-object-id="" data-md-src="/content/dam/one/za/en/home/tiles/desktop-new/refreshing-d-450x270-sa-section-5.jpg" data-xs-src="/content/dam/one/za/en/home/tiles/mobile/refreshing-m-600x300-sa-section-5.jpg" class="card-img-top card__img--zoom responsive-image" alt="">
+
+			</a><div class="card__div--overlay card-body-style"><a href="/sustainability/refreshing-south-africa" target="_self" aria-label="Opens link">
+
+				</a><div class="card--overlayWrapper"><a href="/sustainability/refreshing-south-africa" target="_self" aria-label="Opens link">
+						<h5 class="card-title text-center" style="">REFRESHING SOUTH AFRICA</h5>
+
+
+
+						</a>
+				</div>
+			</div>
+
+			<div class="card__side-indicator"></div>
+		
+
+
+
+
+
+			
+	</div>
+</div></div>
+</div>
+
+    
+</div>
+</div>
+<div class="responsivegrid aem-GridColumn--tablet--12 aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn--default--9 aem-GridColumn aem-GridColumn--tablet--newline aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0">
+
+
+<div class="aem-Grid aem-Grid--default--12 aem-Grid--phone--12 aem-Grid--tablet--12 ">
+    
+    <div class="card card__h5--bolder aem-GridColumn--tablet--12 aem-GridColumn--offset--tablet--0 aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--12 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0">
+    
+
+
+
+
+  
+
+
+
+<!-- Card Vertical -->
+<div class="tccc-cmp tccc-cmp-card ready" data-component-name="card" data-logic-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/logic.js" data-model="{&quot;headlineText&quot;:&quot;SUSTAINABILITY&quot;,&quot;isDecorativeAudio&quot;:&quot;false&quot;,&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;imageOrVideo&quot;:&quot;image&quot;,&quot;showAltText&quot;:&quot;true&quot;,&quot;paddingMarginLeftRightMarginDisable&quot;:&quot;false&quot;,&quot;cardLinkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginMobilePadding&quot;:&quot;p-0&quot;,&quot;headlineTextAlignment&quot;:&quot;text-center&quot;,&quot;cardLinkUrl&quot;:&quot;/sustainability&quot;,&quot;linkTarget&quot;:&quot;_blank&quot;,&quot;paddingMarginDeskPadding&quot;:&quot;p-md-0&quot;,&quot;linkTargetDownload&quot;:&quot;_self&quot;,&quot;linkType&quot;:&quot;pageURL&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;showAltTextAudio&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;false&quot;,&quot;paddingMarginDeskMargin&quot;:&quot;m-md-0&quot;,&quot;mobileMargin&quot;:&quot;m-0&quot;,&quot;image&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/desktop-new/make-a-difference-d-section-6.jpg&quot;,&quot;imageWidth&quot;:1344,&quot;imageHeight&quot;:807,&quot;aspectRation&quot;:&quot;60.04%&quot;},&quot;mobile&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/mobile/make-a-difference-m-section-6.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:600,&quot;aspectRation&quot;:&quot;100.00%&quot;},&quot;icon&quot;:{},&quot;bgcolorimageDesktopImage&quot;:{},&quot;bgcolorimageMobileImage&quot;:{},&quot;video&quot;:{},&quot;audio&quot;:{}}" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/style.css" data-design-package="bleed" data-server-hbs-enabled="false" data-instance-id="6bd4bb62-9549-b986-378e-dd341c268715"><div class="responsive-background-image custom-margin-padding
+	 m-0
+	 p-0
+	 m-md-0
+	 p-md-0" style="
+	">
+
+	<div class="card__img--wrapper text-center">
+
+			<a href="/sustainability" target="_self" aria-label="Opens link">
+
+
+			
+				<img src="/content/dam/one/za/en/home/tiles/mobile/make-a-difference-m-section-6.jpg" data-object-id="" data-md-src="/content/dam/one/za/en/home/tiles/desktop-new/make-a-difference-d-section-6.jpg" data-xs-src="/content/dam/one/za/en/home/tiles/mobile/make-a-difference-m-section-6.jpg" class="card-img-top card__img--zoom responsive-image" alt="">
+
+			</a><div class="card__div--overlay card-body-style"><a href="/sustainability" target="_self" aria-label="Opens link">
+
+				</a><div class="card--overlayWrapper"><a href="/sustainability" target="_self" aria-label="Opens link">
+						<h5 class="card-title text-center" style="">SUSTAINABILITY</h5>
+
+
+
+						</a>
+				</div>
+			</div>
+
+			<div class="card__side-indicator"></div>
+		
+
+
+
+
+
+			
+	</div>
+</div></div>
+</div>
+
+    
+</div>
+</div>
+<div class="divider aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+<div class="tccc-cmp tccc-cmp-divider  " data-component-name="divider" data-model="{&quot;heightPaddingMarginMobileMarginPix&quot;:&quot;0&quot;,&quot;heightPaddingMarginDeskHeightPix&quot;:&quot;0&quot;,&quot;heightPaddingMarginDeskPaddingPix&quot;:&quot;0&quot;,&quot;heightPaddingMarginDeskMarginPix&quot;:&quot;0&quot;,&quot;heightPaddingMarginMobilePaddingPix&quot;:&quot;0&quot;,&quot;heightPaddingMarginDeskPadding&quot;:&quot;p-md-0&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;heightPaddingMarginLeftRightMarginDisable&quot;:&quot;false&quot;,&quot;hideDividerMobile&quot;:&quot;false&quot;,&quot;type&quot;:&quot;h1&quot;,&quot;heightPaddingMarginDeskHeight&quot;:&quot;auto&quot;,&quot;heightPaddingMarginDeskMargin&quot;:&quot;m-md-4&quot;,&quot;heightPaddingMarginMobilePadding&quot;:&quot;p-0&quot;,&quot;enableBottomArrow&quot;:&quot;false&quot;,&quot;heightPaddingMarginMobileHeight&quot;:&quot;auto&quot;,&quot;heightPaddingMarginMobileMargin&quot;:&quot;m-3&quot;,&quot;enableParallax&quot;:&quot;false&quot;,&quot;heightPaddingMarginMobileHeightPix&quot;:&quot;0&quot;,&quot;alignment&quot;:&quot;center&quot;,&quot;bgcolorimageDesktopImage&quot;:{},&quot;bgcolorimageMobileImage&quot;:{}}" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/divider/default/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/divider/default/style.css" data-design-package="default" data-server-hbs-enabled="false" data-instance-id="963caf13-c2fb-49a5-d9bb-c1c861c097a6">
+<div class="text-center">
+    <!-- tablet/desktop -->
+    <div class="d-none d-md-block 
+                 
+                m-md-4" style="
+                
+                
+                
+">    
+    
+       <div class="overlay" style="background-color: ;">
+
+             <p class="p-md-0" style="
+                    
+                    
+                    "> 
+                    
+                    
+
+            </p>
+
+            
+
+       </div>
+
+    
+    </div>
+
+    <!-- mobile  -->
+         
+    
+    <div class="d-block d-md-none                 
+                 
+                m-3" style="
+                
+                
+                
+"> 
+    
+
+       <div class="overlay" style="background-color: ;">
+
+           <p class="p-0" style="
+                    
+                    
+                    "> 
+                    
+                    
+
+            </p>
+                    
+            
+
+       </div>
+
+    
+    </div>
+</div>
+</div></div>
+<div class="divider aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+<div class="tccc-cmp tccc-cmp-divider  " data-component-name="divider" data-model="{&quot;heightPaddingMarginMobileMarginPix&quot;:&quot;0&quot;,&quot;heightPaddingMarginDeskHeightPix&quot;:&quot;0&quot;,&quot;heightPaddingMarginDeskPaddingPix&quot;:&quot;0&quot;,&quot;heightPaddingMarginDeskMarginPix&quot;:&quot;0&quot;,&quot;heightPaddingMarginMobilePaddingPix&quot;:&quot;0&quot;,&quot;heightPaddingMarginDeskPadding&quot;:&quot;p-md-0&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;heightPaddingMarginLeftRightMarginDisable&quot;:&quot;false&quot;,&quot;hideDividerMobile&quot;:&quot;false&quot;,&quot;type&quot;:&quot;h1&quot;,&quot;heightPaddingMarginDeskHeight&quot;:&quot;auto&quot;,&quot;heightPaddingMarginDeskMargin&quot;:&quot;m-md-3&quot;,&quot;heightPaddingMarginMobilePadding&quot;:&quot;p-0&quot;,&quot;enableBottomArrow&quot;:&quot;false&quot;,&quot;heightPaddingMarginMobileHeight&quot;:&quot;auto&quot;,&quot;heightPaddingMarginMobileMargin&quot;:&quot;m-2&quot;,&quot;enableParallax&quot;:&quot;false&quot;,&quot;heightPaddingMarginMobileHeightPix&quot;:&quot;0&quot;,&quot;alignment&quot;:&quot;center&quot;,&quot;bgcolorimageDesktopImage&quot;:{},&quot;bgcolorimageMobileImage&quot;:{}}" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/divider/default/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/divider/default/style.css" data-design-package="default" data-server-hbs-enabled="false" data-instance-id="e180b8c3-2bf7-1edd-e0a5-9ffde18d98d1">
+<div class="text-center">
+    <!-- tablet/desktop -->
+    <div class="d-none d-md-block 
+                 
+                m-md-3" style="
+                
+                
+                
+">    
+    
+       <div class="overlay" style="background-color: ;">
+
+             <p class="p-md-0" style="
+                    
+                    
+                    "> 
+                    
+                    
+
+            </p>
+
+            
+
+       </div>
+
+    
+    </div>
+
+    <!-- mobile  -->
+         
+    
+    <div class="d-block d-md-none                 
+                 
+                m-2" style="
+                
+                
+                
+"> 
+    
+
+       <div class="overlay" style="background-color: ;">
+
+           <p class="p-0" style="
+                    
+                    
+                    "> 
+                    
+                    
+
+            </p>
+                    
+            
+
+       </div>
+
+    
+    </div>
+</div>
+</div></div>
+<div class="responsivegrid aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--10 aem-GridColumn--offset--default--1">
+
+
+<div class="aem-Grid aem-Grid--default--12 ">
+    
+    <div class="card card__h5--bolder aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--4 aem-GridColumn--offset--default--1">
+    
+
+
+
+
+  
+
+
+
+<!-- Card Vertical -->
+<div class="tccc-cmp tccc-cmp-card ready" data-component-name="card" data-logic-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/logic.js" data-model="{&quot;headlineText&quot;:&quot;FAQs&quot;,&quot;isDecorativeAudio&quot;:&quot;false&quot;,&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;imageOrVideo&quot;:&quot;image&quot;,&quot;showAltText&quot;:&quot;true&quot;,&quot;paddingMarginLeftRightMarginDisable&quot;:&quot;false&quot;,&quot;cardLinkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginMobilePadding&quot;:&quot;p-0&quot;,&quot;headlineTextAlignment&quot;:&quot;text-center&quot;,&quot;cardLinkUrl&quot;:&quot;/know-us-better/faq&quot;,&quot;linkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginDeskPadding&quot;:&quot;p-md-0&quot;,&quot;linkTargetDownload&quot;:&quot;_self&quot;,&quot;linkType&quot;:&quot;pageURL&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;showAltTextAudio&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;false&quot;,&quot;paddingMarginDeskMargin&quot;:&quot;m-md-0&quot;,&quot;mobileMargin&quot;:&quot;m-0&quot;,&quot;image&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/round-tiles/faq-round-section-7.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:600,&quot;aspectRation&quot;:&quot;100.00%&quot;},&quot;mobile&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/round-tiles/faq-round-section-7.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:600,&quot;aspectRation&quot;:&quot;100.00%&quot;},&quot;icon&quot;:{},&quot;video&quot;:{},&quot;audio&quot;:{},&quot;bgcolorimageDesktopImage&quot;:{},&quot;bgcolorimageMobileImage&quot;:{}}" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/style.css" data-design-package="bleed" data-server-hbs-enabled="false" data-instance-id="d3a114a0-e5f1-b852-a396-79cb587d01a4"><div class="responsive-background-image custom-margin-padding
+	 m-0
+	 p-0
+	 m-md-0
+	 p-md-0" style="
+	">
+
+	<div class="card__img--wrapper text-center">
+
+			<a href="/know-us-better/faq" target="_self" aria-label="Opens link">
+
+
+			
+				<img src="/content/dam/one/za/en/home/tiles/round-tiles/faq-round-section-7.jpg" data-object-id="" data-md-src="/content/dam/one/za/en/home/tiles/round-tiles/faq-round-section-7.jpg" data-xs-src="/content/dam/one/za/en/home/tiles/round-tiles/faq-round-section-7.jpg" class="card-img-top card__img--zoom responsive-image" alt="">
+
+			</a><div class="card__div--overlay card-body-style"><a href="/know-us-better/faq" target="_self" aria-label="Opens link">
+
+				</a><div class="card--overlayWrapper"><a href="/know-us-better/faq" target="_self" aria-label="Opens link">
+						<h5 class="card-title text-center" style="">FAQs</h5>
+
+
+
+						</a>
+				</div>
+			</div>
+
+			<div class="card__side-indicator"></div>
+		
+
+
+
+
+
+			
+	</div>
+</div></div>
+</div>
+<div class="card card__h5--bolder aem-GridColumn--default--none aem-GridColumn aem-GridColumn--offset--default--0 aem-GridColumn--default--4">
+    
+
+
+
+
+  
+
+
+
+<!-- Card Vertical -->
+<div class="tccc-cmp tccc-cmp-card ready" data-component-name="card" data-logic-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/logic.js" data-model="{&quot;headlineText&quot;:&quot;MEDIA CENTRE&quot;,&quot;isDecorativeAudio&quot;:&quot;false&quot;,&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;imageOrVideo&quot;:&quot;image&quot;,&quot;showAltText&quot;:&quot;true&quot;,&quot;paddingMarginLeftRightMarginDisable&quot;:&quot;false&quot;,&quot;cardLinkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginMobilePadding&quot;:&quot;p-0&quot;,&quot;headlineTextAlignment&quot;:&quot;text-center&quot;,&quot;cardLinkUrl&quot;:&quot;/stories-and-press&quot;,&quot;linkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginDeskPadding&quot;:&quot;p-md-0&quot;,&quot;linkTargetDownload&quot;:&quot;_self&quot;,&quot;linkType&quot;:&quot;pageURL&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;showAltTextAudio&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;false&quot;,&quot;paddingMarginDeskMargin&quot;:&quot;m-md-0&quot;,&quot;mobileMargin&quot;:&quot;m-0&quot;,&quot;image&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/round-tiles/media-centre--round-section-8.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:600,&quot;aspectRation&quot;:&quot;100.00%&quot;},&quot;mobile&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/round-tiles/media-centre--round-section-8.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:600,&quot;aspectRation&quot;:&quot;100.00%&quot;},&quot;icon&quot;:{},&quot;video&quot;:{},&quot;audio&quot;:{},&quot;bgcolorimageDesktopImage&quot;:{},&quot;bgcolorimageMobileImage&quot;:{}}" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/style.css" data-design-package="bleed" data-server-hbs-enabled="false" data-instance-id="fcdc9164-ca04-c385-805b-f5ca2965a4b4"><div class="responsive-background-image custom-margin-padding
+	 m-0
+	 p-0
+	 m-md-0
+	 p-md-0" style="
+	">
+
+	<div class="card__img--wrapper text-center">
+
+			<a href="/stories-and-press" target="_self" aria-label="Opens link">
+
+
+			
+				<img src="/content/dam/one/za/en/home/tiles/round-tiles/media-centre--round-section-8.jpg" data-object-id="" data-md-src="/content/dam/one/za/en/home/tiles/round-tiles/media-centre--round-section-8.jpg" data-xs-src="/content/dam/one/za/en/home/tiles/round-tiles/media-centre--round-section-8.jpg" class="card-img-top card__img--zoom responsive-image" alt="">
+
+			</a><div class="card__div--overlay card-body-style"><a href="/stories-and-press" target="_self" aria-label="Opens link">
+
+				</a><div class="card--overlayWrapper"><a href="/stories-and-press" target="_self" aria-label="Opens link">
+						<h5 class="card-title text-center" style="">MEDIA CENTRE</h5>
+
+
+
+						</a>
+				</div>
+			</div>
+
+			<div class="card__side-indicator"></div>
+		
+
+
+
+
+
+			
+	</div>
+</div></div>
+</div>
+<div class="card card__h5--bolder aem-GridColumn--default--none aem-GridColumn aem-GridColumn--offset--default--0 aem-GridColumn--default--4">
+    
+
+
+
+
+  
+
+
+
+<!-- Card Vertical -->
+<div class="tccc-cmp tccc-cmp-card ready" data-component-name="card" data-logic-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/logic.js" data-model="{&quot;headlineText&quot;:&quot;WORKING AT COKE&quot;,&quot;isDecorativeAudio&quot;:&quot;false&quot;,&quot;isDecorativeVideo&quot;:&quot;false&quot;,&quot;imageOrVideo&quot;:&quot;image&quot;,&quot;showAltText&quot;:&quot;true&quot;,&quot;paddingMarginLeftRightMarginDisable&quot;:&quot;false&quot;,&quot;cardLinkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginMobilePadding&quot;:&quot;p-0&quot;,&quot;headlineTextAlignment&quot;:&quot;text-center&quot;,&quot;cardLinkUrl&quot;:&quot;/working-at-coke&quot;,&quot;linkTarget&quot;:&quot;_self&quot;,&quot;paddingMarginDeskPadding&quot;:&quot;p-md-0&quot;,&quot;linkTargetDownload&quot;:&quot;_self&quot;,&quot;linkType&quot;:&quot;pageURL&quot;,&quot;isDecorative&quot;:&quot;false&quot;,&quot;showAltTextAudio&quot;:&quot;false&quot;,&quot;showAltTextVideo&quot;:&quot;false&quot;,&quot;paddingMarginDeskMargin&quot;:&quot;m-md-0&quot;,&quot;mobileMargin&quot;:&quot;m-0&quot;,&quot;image&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/round-tiles/working-at-coke-section-9.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:600,&quot;aspectRation&quot;:&quot;100.00%&quot;},&quot;mobile&quot;:{&quot;src&quot;:&quot;/content/dam/one/za/en/home/tiles/round-tiles/working-at-coke-section-9.jpg&quot;,&quot;imageWidth&quot;:600,&quot;imageHeight&quot;:600,&quot;aspectRation&quot;:&quot;100.00%&quot;},&quot;icon&quot;:{},&quot;video&quot;:{},&quot;audio&quot;:{},&quot;bgcolorimageDesktopImage&quot;:{},&quot;bgcolorimageMobileImage&quot;:{}}" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/card/bleed/style.css" data-design-package="bleed" data-server-hbs-enabled="false" data-instance-id="2083324a-6328-e81a-dea3-bc09cfb7de9f"><div class="responsive-background-image custom-margin-padding
+	 m-0
+	 p-0
+	 m-md-0
+	 p-md-0" style="
+	">
+
+	<div class="card__img--wrapper text-center">
+
+			<a href="/working-at-coke" target="_self" aria-label="Opens link">
+
+
+			
+				<img src="/content/dam/one/za/en/home/tiles/round-tiles/working-at-coke-section-9.jpg" data-object-id="" data-md-src="/content/dam/one/za/en/home/tiles/round-tiles/working-at-coke-section-9.jpg" data-xs-src="/content/dam/one/za/en/home/tiles/round-tiles/working-at-coke-section-9.jpg" class="card-img-top card__img--zoom responsive-image" alt="">
+
+			</a><div class="card__div--overlay card-body-style"><a href="/working-at-coke" target="_self" aria-label="Opens link">
+
+				</a><div class="card--overlayWrapper"><a href="/working-at-coke" target="_self" aria-label="Opens link">
+						<h5 class="card-title text-center" style="">WORKING AT COKE</h5>
+
+
+
+						</a>
+				</div>
+			</div>
+
+			<div class="card__side-indicator"></div>
+		
+
+
+
+
+
+			
+	</div>
+</div></div>
+</div>
+
+    
+</div>
+</div>
+
+    
+</div>
+</div>
+
+    
+</div>
+</div>
